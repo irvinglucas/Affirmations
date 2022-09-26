@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.Affirmations.TextView" parent="Widget.MaterialComponents.TextView">
+        <item name="android:textSize">@dimen/text_size</item>
+    </style>
+</resources>
